@@ -8,7 +8,7 @@ This is my working repository
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael-talenavi&theme=radical&count_private=true&show_icons=true&hide_title=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-talenavi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raphael-talenavi&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raphal-talenavi&mode=weekly)](https://git.io/streak-stats)
 <!--
 **raphael-talenavi/raphael-talenavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
