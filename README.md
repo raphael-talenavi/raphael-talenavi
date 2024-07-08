@@ -5,7 +5,7 @@ I am currently focusing on web development.
 This is my working repository
 
 ### My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael-talenavi&theme=radical&count_private=true&show_icons=true&hide_title=true)  
+![Anurag's GitHub stats](http://github-readme-stats-wine-five-20.vercel.app/api?username=raphael-talenavi&theme=radical&count_private=true&show_icons=true&hide_title=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-talenavi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raphael-talenavi&theme=radical&mode=weekly)](https://git.io/streak-stats)
